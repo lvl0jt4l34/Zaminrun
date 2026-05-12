@@ -3,8 +3,8 @@ import schedule
 import time
 import jdatetime
 
-TOKEN = "TOKEN"
-GROUP_ID = "-100123456"
+TOKEN = "1342439526:crs6Nat6WZPJNBZVweFZlNZpF03Wyf1O1yQ"
+GROUP_ID = "-1608959784"
 
 BASE_URL = f"https://tapi.bale.ai/bot{TOKEN}"
 
